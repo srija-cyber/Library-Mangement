@@ -1,6 +1,4 @@
-# Library-Mangement
-
-# 📚 Library Management Web App
+# 📚 Library-Mangement
 
 A simple yet functional library book search interface built with **HTML**, **Tailwind CSS**, and **Vanilla JavaScript**. It allows users to search for books by title using a public API and displays search results in a clean and responsive UI.
 
